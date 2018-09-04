@@ -1,0 +1,2 @@
+# Arduino_blk_box
+具有记录数据功能的数据黑盒，软件开发基于arduino平台，数据存储基于openlog
